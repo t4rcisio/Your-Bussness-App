@@ -1,2 +1,2 @@
 # Your-Bussness-App
-This is a template for you build your personal app for your business
+This is a template for you build a personal app for your business
